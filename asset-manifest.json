@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/courseraproject/static/css/main.c080e5cd.css",
+    "main.js": "/courseraproject/static/js/main.4215b351.js",
+    "static/media/Ban2.jpg": "/courseraproject/static/media/Ban2.2d5e2a227437eb2f1965.jpg",
+    "static/media/neem.jpg": "/courseraproject/static/media/neem.b51f6f265a0edb403082.jpg",
+    "static/media/lemongrass.jpg": "/courseraproject/static/media/lemongrass.eb4bb210afda1f48186f.jpg",
+    "static/media/ashwagandha.jpg": "/courseraproject/static/media/ashwagandha.817fdb1586f8c2f5cd9f.jpg",
+    "static/media/tulsi.webp": "/courseraproject/static/media/tulsi.e7b574b22db75e1f9f8d.webp",
+    "static/media/sage.webp": "/courseraproject/static/media/sage.cf7821a0e69f1a420a8e.webp",
+    "static/media/turmeric.webp": "/courseraproject/static/media/turmeric.2d04cbeffc07530f641b.webp",
+    "static/media/eucalyptus.jpg": "/courseraproject/static/media/eucalyptus.e6e30abc8bcc0d59b133.jpg",
+    "static/media/Lavender.jpg": "/courseraproject/static/media/Lavender.e747fa55eef6a666b17c.jpg",
+    "static/media/fenugreek.jpg": "/courseraproject/static/media/fenugreek.860608b61f92105a4bfe.jpg",
+    "static/media/peppermint.jpg": "/courseraproject/static/media/peppermint.218323e7fa60f999a3e0.jpg",
+    "static/media/basil.jpg": "/courseraproject/static/media/basil.c88a5a650ef7e0760b94.jpg",
+    "static/media/ginger.jpg": "/courseraproject/static/media/ginger.174f0007fba4c488cc62.jpg",
+    "static/media/chamomile.jpg": "/courseraproject/static/media/chamomile.5ea98035c4004cedae93.jpg",
+    "static/media/thyme.jpg": "/courseraproject/static/media/thyme.3a9d7b4685d7accc1632.jpg",
+    "static/media/jasmine.jpg": "/courseraproject/static/media/jasmine.d609f3298b004ed4f39e.jpg",
+    "static/media/alovera.webp": "/courseraproject/static/media/alovera.03c9bef29eeea4cc5b4e.webp",
+    "static/media/rosemary.webp": "/courseraproject/static/media/rosemary.b57bedfd4f395871aa20.webp",
+    "static/media/mint.jpg": "/courseraproject/static/media/mint.25563d5095c0d5c3ee5f.jpg",
+    "static/media/coriander.avif": "/courseraproject/static/media/coriander.f10ce58699683bd1b646.avif",
+    "index.html": "/courseraproject/index.html",
+    "main.c080e5cd.css.map": "/courseraproject/static/css/main.c080e5cd.css.map",
+    "main.4215b351.js.map": "/courseraproject/static/js/main.4215b351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c080e5cd.css",
+    "static/js/main.4215b351.js"
+  ]
+}
